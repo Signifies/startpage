@@ -21,7 +21,6 @@ table, th, td {
   border-collapse: collapse;
   text-align: center;
   color: var(--color4);
-
   margin-bottom: 10px;
 }
 
@@ -53,6 +52,7 @@ a:link {
   max-height: 205px;
   margin-left: auto;
   margin-right: auto;
+  margin-top: 20px;
   border: 2px outset var(--color5);
 }
 
